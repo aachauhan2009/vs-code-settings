@@ -40,3 +40,9 @@
 * VisualStudioExptTeam.vscodeintellicode
 * whizkydee.material-palenight-theme
 * wix.vscode-import-cost
+
+
+**Settings**
+
+[settings.json](./settings.json)
+
