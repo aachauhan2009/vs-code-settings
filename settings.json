@@ -1,0 +1,31 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "breadcrumbs.enabled": true,
+    "editor.tabSize": 2,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "editor.renderWhitespace": "boundary",
+    "editor.wordWrap": "on",
+    "editor.fontLigatures": true,
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.statusBar.feedback.visible": false,
+    "window.zoomLevel": 0,
+    "cSpell.language": "en,en-GB,en-US",
+    "mocha-snippets.function-type": "arrow",
+    "mocha-snippets.quote-type": "double",
+    "editor.fontFamily": "'Fira Code iScript', 'Fira Code'",
+    "editor.suggestFontSize": 16,
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.suggestSelection": "first",
+    "workbench.settings.editor": "ui",
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    },
+    "editor.minimap.enabled": false,
+    "vscode_custom_css.imports": ["file:///home/amit_chauhan/Documents/custom.css"],
+    "vscode_custom_css.policy": true,
+    "path-intellisense.mappings": {
+        "src": "${workspaceRoot}/src",
+	},
+}
